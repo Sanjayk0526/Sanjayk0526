@@ -42,29 +42,16 @@ I'm a **software developer** who turns complex problems into elegant, performant
 
 ---
 
-## 📊 GitHub Stats
-
-&lt;div align="center"&gt;
-
-[![Sanjay K's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayk&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayk&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-&lt;/div&gt;
-
----
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-k-868b74278/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skumarsanjay227@gmail.com)
 
 ---
 
-&lt;div align="center"&gt;
+<div>
 
 **"First, solve the problem. Then, write the code."**
 
-&lt;/div&gt;
+</div?
