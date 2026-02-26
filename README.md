@@ -4,7 +4,7 @@
 
 ### Software Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+solutions;Clean+code+advocate;Problem+solver+at+core;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+solutions;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,6 @@ I'm a **software developer** who turns complex problems into elegant, performant
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -54,4 +53,4 @@ I'm a **software developer** who turns complex problems into elegant, performant
 
 **"First, solve the problem. Then, write the code."**
 
-</div?
+</div>
