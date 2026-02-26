@@ -1,4 +1,4 @@
-div align="center"&gt;
+<div align="center">
 
 # Sanjay K
 
@@ -6,7 +6,7 @@ div align="center"&gt;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+solutions;Clean+code+advocate;Problem+solver+at+core;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-&lt;/div&gt;
+</div>
 
 ---
 
