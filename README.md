@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+div align="center"&gt;
 
 # Sanjay K
 
